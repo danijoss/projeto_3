@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #388fa3;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #e15f41;
+    color: #388fa3;
 }
 
 #cabecalho .nav .nav-link, 
@@ -20,7 +20,7 @@ body {
 
 
 .navbar-toggler {
-    background-color: #ffeae6;
+    background-color: #afeffd;
 }
 
 .section-title {
@@ -29,21 +29,21 @@ body {
 
 #sobre-o-restaurante,
 #cardapio {
-    background-color: #ffeae6;
+    background-color: #afeffd;
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #388fa3;
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
-    background-color: #e15f41;
+    background-color: #388fa3;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41;
+    color: #388fa3;
 }
 
 .social-links li{
