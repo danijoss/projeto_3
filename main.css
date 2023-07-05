@@ -14,7 +14,7 @@ body {
 #cabecalho .nav .nav-link, 
 .navbar-brand,
 .navbar-brand:hover,
-.nav-cardapio .nav-link.active:hover {
+.nav-tratamentos .nav-link.active:hover {
     color: #fff;
 }
 
@@ -27,8 +27,8 @@ body {
     font-family: 'Ysabeau Infant', sans-serif;
 }
 
-#sobre-o-restaurante,
-#cardapio {
+#sobre-a-clinica,
+#tratamentos {
     background-color: #afeffd;
 }
 
